@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calendar.xml.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_calendar_icon.png.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\drawable-hdpi\\calendar_icon.png"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\layout_ghi_chu.xml.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\layout\\ghi_chu.xml"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nen1.png.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\drawable-hdpi\\nen1.png"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\layout_chuyenngay.xml.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\layout\\chuyenngay.xml"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon2.png.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\drawable-hdpi\\icon2.png"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\layout_xemsao.xml.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\layout\\xemsao.xml"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main.png.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\drawable-hdpi\\main.png"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_main.png.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\drawable-xxhdpi\\main.png"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_main.png.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\drawable-mdpi\\main.png"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\menu_op_calendar.xml.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\menu\\op_calendar.xml"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\layout_xemngay.xml.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\layout\\xemngay.xml"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\layout_calendar_activity.xml.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\layout\\calendar_activity.xml"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main.png.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\drawable-xhdpi\\main.png"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\CNTT\\android\\Project\\Amlich\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "E:\\CNTT\\android\\Project\\Amlich\\app\\src\\main\\res\\layout\\about.xml"
+    }
+]

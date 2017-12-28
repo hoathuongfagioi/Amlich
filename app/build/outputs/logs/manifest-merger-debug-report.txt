@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:11:5-44:19
+	android:label
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.android.amlich.MainActivity
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:17:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.android.amlich.xemngay
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:25:19-60
+activity#com.android.amlich.chuyenngay
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:27:19-63
+activity#com.android.amlich.xemsao
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:29:9-30:20
+	android:name
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:29:19-59
+activity#com.android.amlich.CustomCalendarView
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:31:9-32:20
+	android:name
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:31:19-71
+activity#com.android.amlich.GhiChu
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:33:9-34:20
+	android:name
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:33:19-59
+activity#com.android.amlich.About
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:theme
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:36:13-52
+intent-filter#android.intent.action.ABOUT+android.intent.category.DEFAULT
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.ABOUT
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:39:17-70
+	android:name
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:39:25-67
+category#android.intent.category.DEFAULT
+ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from E:\CNTT\android\Project\Amlich\app\src\main\AndroidManifest.xml:41:27-73

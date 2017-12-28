@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/opcalendar"
+        android:title="Lịch Tháng"/>
+    <item
+        android:id="@+id/opMakeNote2"
+        android:title="Ghi Chú"/>
+    <item
+        android:id="@+id/op_main_chuyenngay"
+        android:title="Chuyển Ngày"/>
+    <item
+        android:id="@+id/opmainsaochieumenh"
+        android:title="Sao Chiếu Mệnh"/>
+    <item
+        android:id="@+id/op_main_about"
+        android:title="Hỗ Trợ"/>
+
+</menu>
